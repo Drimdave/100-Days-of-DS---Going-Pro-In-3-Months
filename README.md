@@ -1,4 +1,4 @@
-# 100-Days-of-DS - Going-Pro-In-3-Months
+# 100-Days-of-DS: Going-Pro-In-3-Months
 Author: Oyelade David
 Date: 1/09/2020
 
@@ -7,6 +7,7 @@ I am starting this 100 Days of Data Science Challenge to encourage myself to wor
 This resipitory contains my structure: Things I covered, My DS Diary, resources and books.
 
 Structure of the 100 days of DS
+
 Going to Cover
 1. Data Science General
 2. Data Visualizations 
