@@ -28,5 +28,6 @@ Contains my learning process.
 ### Resources 
 Contains the project ideas, datasets, codes, outputs.
 
-### Books - Contains books I read.
+### Books 
+Contains books I read.
 
