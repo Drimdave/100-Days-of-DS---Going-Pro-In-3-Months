@@ -27,6 +27,8 @@ https://github.com/Avik-Jain/100-Days-Of-ML-Code - Machine Learning
 
 https://github.com/johannesgiorgis/100-days-of-data-science
 
+https://blog.datasciencedojo.com/
+
 ### My DS Diary 
 Contains my learning process. 
 
