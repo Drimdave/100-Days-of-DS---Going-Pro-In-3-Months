@@ -17,7 +17,7 @@ This resipitory contains my structure: Things I covered, my plans, My DS Diary, 
 ### My Plans:
 I'm going to use the following for the next 3 months for my training
 
-“100Days of DS code (Datascience) Day 1 -Python for Data science” by Pydata Port Harcourt https://link.medium.com/zPCB3TCan9 - Data Science General
+https://github.com/llSourcell/Learn_Data_Science_in_3_Months - Data Science General
 
 https://towardsdatascience.com/100-days-of-artificial-intelligence-3a38c75b6a5d - Artifical Intelligence 
 
