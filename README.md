@@ -18,6 +18,7 @@ This resipitory contains my structure: Things I covered, my plans, My DS Diary, 
 I'm going to use the following for the next 3 months for my training
 
 https://github.com/llSourcell/Learn_Data_Science_in_3_Months - Data Science General
+https://github.com/100-days-of-data-science-code/100-Days-of-Data-Science/blob/master/Curriculum.md
 
 https://towardsdatascience.com/100-days-of-artificial-intelligence-3a38c75b6a5d - Artifical Intelligence 
 
