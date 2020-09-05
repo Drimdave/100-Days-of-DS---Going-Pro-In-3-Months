@@ -4,18 +4,22 @@ Date: 1/09/2020
 
 I am starting this 100 Days of Data Science Challenge to encourage myself to work on my data science skills and projects on consistent daily basis.
 
-This resipitory contains my structure: Things I covered, my plans, My DS Diary, resources and books.
+This resipitory contains my structure: Things I covered, My DS Diary, resources and books.
 
 ## Structure of the 100 days of DS
 
 ### Going to Cover
-1. Data Science General
+1. Data Science Analysis
 2. Data Visualizations 
 3. Machine Learning 
-4. Artificial Intelligence 
+4. Artificial Intelligence
+5. Deep Learning 
 
-### My Plans:
-I'm going to use the following for the next 3 months for my training
+### My DS Diary 
+Contains my learning process. 
+
+### Resources 
+Contains the project ideas, datasets, codes, outputs.
 
 https://github.com/llSourcell/Learn_Data_Science_in_3_Months - Data Science Analysis
 https://github.com/100-days-of-data-science-code/100-Days-of-Data-Science/blob/master/Curriculum.md
@@ -30,12 +34,7 @@ https://github.com/Avik-Jain/100-Days-Of-ML-Code - Machine Learning
 https://github.com/johannesgiorgis/100-days-of-data-science
 
 https://blog.datasciencedojo.com/
-
-### My DS Diary 
-Contains my learning process. 
-
-### Resources 
-Contains the project ideas, datasets, codes, outputs.
+https://github.com/CICIFLY/Data-Analytics-Projects
 
 ### Books 
 Contains books I read.
