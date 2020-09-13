@@ -34,7 +34,10 @@ https://github.com/Avik-Jain/100-Days-Of-ML-Code - Machine Learning
 https://github.com/johannesgiorgis/100-days-of-data-science
 
 https://blog.datasciencedojo.com/
+
 https://github.com/CICIFLY/Data-Analytics-Projects
+
+https://github.com/iNeuronai/EDACollection
 
 ### Books 
 Contains books I read.
