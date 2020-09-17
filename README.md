@@ -29,16 +29,22 @@ https://towardsdatascience.com/100-days-of-artificial-intelligence-3a38c75b6a5d 
 https://github.com/yanhann10/opendata_viz - Data Visualizations 
 https://github.com/aaronpenne/data_visualization
 
-https://github.com/Avik-Jain/100-Days-Of-ML-Code - Machine Learning 
+https://github.com/Avik-Jain/100-Days-Of-ML-Code
+https://m.youtube.com/watch?list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr&v=ujTCoH21GlA - Machine Learning 
 
-https://github.com/johannesgiorgis/100-days-of-data-science
+https://github.com/johannesgiorgis/100-days-of-data-science - Extra
 
-https://blog.datasciencedojo.com/
+https://blog.datasciencedojo.com/ - Extra
 
-https://github.com/CICIFLY/Data-Analytics-Projects
+https://github.com/CICIFLY/Data-Analytics-Projects - Data Analytics 
 
-https://github.com/iNeuronai/EDACollection
+https://github.com/iNeuronai/EDACollection - Exploratory Data Analysis
 
+https://m.youtube.com/watch?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&v=DKSZHN7jftI - Feature Engineering, NLP and Deep Learning
+
+https://m.youtube.com/watch?list=PLaFfQroTgZnyQFq4nUfb-w2vEopN3ULMb&v=tJPURyKJAR4 - ALL
+
+ 
 ### Books 
 Contains books I read.
 
