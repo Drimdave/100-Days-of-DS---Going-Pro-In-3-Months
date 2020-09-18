@@ -44,6 +44,9 @@ https://m.youtube.com/watch?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&v=DKSZHN7jft
 
 https://m.youtube.com/watch?list=PLaFfQroTgZnyQFq4nUfb-w2vEopN3ULMb&v=tJPURyKJAR4 - ALL
 
+
+https://www.machinehack.com/hackathon - Machine Learning Hackathon 
+
  
 ### Books 
 Contains books I read.
