@@ -24,6 +24,7 @@ Contains the project ideas, datasets, codes, outputs.
 https://github.com/llSourcell/Learn_Data_Science_in_3_Months - Data Science Analysis
 https://github.com/100-days-of-data-science-code/100-Days-of-Data-Science/blob/master/Curriculum.md
 
+https://docs.microsoft.com/en-us/learn/roles/ai-engineer
 https://towardsdatascience.com/100-days-of-artificial-intelligence-3a38c75b6a5d - Artifical Intelligence 
 
 https://github.com/yanhann10/opendata_viz - Data Visualizations 
