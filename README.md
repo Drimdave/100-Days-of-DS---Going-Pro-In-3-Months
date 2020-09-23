@@ -29,6 +29,7 @@ https://towardsdatascience.com/100-days-of-artificial-intelligence-3a38c75b6a5d 
 
 https://github.com/yanhann10/opendata_viz - Data Visualizations 
 https://github.com/aaronpenne/data_visualization
+https://campus.datacamp.com/courses/introduction-to-data-visualization-in-python
 
 https://github.com/Avik-Jain/100-Days-Of-ML-Code
 https://m.youtube.com/watch?list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr&v=ujTCoH21GlA - Machine Learning 
