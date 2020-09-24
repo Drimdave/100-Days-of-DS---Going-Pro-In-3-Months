@@ -32,6 +32,7 @@ https://github.com/aaronpenne/data_visualization
 https://campus.datacamp.com/courses/introduction-to-data-visualization-in-python
 
 https://github.com/Avik-Jain/100-Days-Of-ML-Code
+https://github.com/dakshtrehan/Machine-Learning-Bootcamp
 https://m.youtube.com/watch?list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr&v=ujTCoH21GlA - Machine Learning 
 
 https://github.com/johannesgiorgis/100-days-of-data-science - Extra
