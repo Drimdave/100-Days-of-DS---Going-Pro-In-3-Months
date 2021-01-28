@@ -4,6 +4,8 @@ Date: 1/09/2020
 
 I am starting this 100 Days of Data Science Challenge to encourage myself to work on my data science skills and projects on consistent daily basis.
 
+I will also share my progress stats on LinkedIn every tenth day.
+
 This resipitory contains my structure: Things I covered, My DS Diary, resources and books.
 
 ## Structure of the 100 days of DS
@@ -20,6 +22,8 @@ Contains my learning process.
 
 ### Resources 
 Contains the project ideas, datasets, codes, outputs.
+
+“Best Resources for Data Science and Machine Learning (full list)” by Naina Chaturvedi https://link.medium.com/2NVNvoZufdb
 
 https://github.com/llSourcell/Learn_Data_Science_in_3_Months - Data Science Analysis
 https://github.com/100-days-of-data-science-code/100-Days-of-Data-Science/blob/master/Curriculum.md
